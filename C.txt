@@ -1,5 +1,11 @@
+<<<<<<< Updated upstream
 ########Error bug fixing work I fixed#####
+=======
+login feature I developed 75%
+
+>>>>>>> Stashed changes
 hello code world
 this is Prashant
 welcome to it world
-welcome to bengaluru
+welcome to Bengaluru
+
